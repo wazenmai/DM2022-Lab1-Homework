@@ -9,6 +9,12 @@ Homework 1 for ISA5810
 - `3_Third_part.ipynb` is correspond to the third requirement of HW1. (30%)
 - `4_Fourth_part.ipynb` is correspond to the fourth requirement of HW1. (10%)
 
+If you want to rerun the whole process, please first install the libraries through `pip command`.
+```
+pip install -r requirements.txt
+```
+
+
 # Description
 1. First: do the **take home** exercises in the [DM2022-Lab1-Master](https://github.com/keziatamus/DM2022-Lab1-Master). You may need to copy some cells from the Lab notebook to this notebook. **This part is worth 20% of your grade.**
 2. Second: follow the same process from the [DM2022-Lab1-Master](https://github.com/keziatamus/DM2022-Lab1-Master) on **the new dataset**. You don't need to explain all details as we did (some **minimal comments** explaining your code are useful though). **This part is worth 30% of your grade.**
